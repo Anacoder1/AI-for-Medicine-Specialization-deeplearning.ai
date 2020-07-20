@@ -1,22 +1,22 @@
-☀ 1. [Sensitivity, Specificity, and Evaluation Metrics]()<br>
+☀ 1. [Sensitivity, Specificity, and Evaluation Metrics](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#1-sensitivity-specificity-and-evaluation-metrics)<br>
 
-☀ 2. [Accuracy in terms of conditional probability]()<br>
+☀ 2. [Accuracy in terms of conditional probability](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#2-accuracy-in-terms-of-conditional-probability)<br>
 
-☀ 3. [Sensitivity, Specificity and Prevalence]()<br>
+☀ 3. [Sensitivity, Specificity and Prevalence](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#3-sensitivity-specificity-and-prevalence)<br>
 
-☀ 4. [PPV, NPV]()<br>
+☀ 4. [PPV, NPV](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#4-ppv-npv)<br>
 
-☀ 5. [Confusion matrix]()<br>
+☀ 5. [Confusion matrix](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#5-confusion-matrix)<br>
 
-☀ 6. [ROC curve and Threshold]()<br>
+☀ 6. [ROC curve and Threshold](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#6-roc-curve-and-threshold)<br>
 
-☀ 7. [Varying the threshold]()<br>
+☀ 7. [Varying the threshold](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#7-varying-the-threshold)<br>
 
-☀ 8. [Sampling from the Total Population]()<br>
+☀ 8. [Sampling from the Total Population](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#8-sampling-from-the-total-population)<br>
 
-☀ 9. [Confidence intervals]()<br>
+☀ 9. [Confidence intervals](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#9-confidence-intervals)<br>
 
-☀ 10. [95% Confidence interval]()<br><br>
+☀ 10. [95% Confidence interval](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%202%20%E2%80%94%20Evaluating%20Models/Week-2%20Notes.md#10-95-confidence-interval)<br><br>
 
 # 1. Sensitivity, Specificity, and Evaluation Metrics
 
