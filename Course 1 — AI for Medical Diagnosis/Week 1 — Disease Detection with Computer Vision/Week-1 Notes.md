@@ -1,42 +1,42 @@
-☀ 1. [Welcome to the Specialization with Andrew and Pranav]()<br>
+☀ 1. [Welcome to the Specialization with Andrew and Pranav](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#1-welcome-to-the-specialization-with-andrew-and-pranav)<br>
 
-☀ 2. [Demo]()<br>
+☀ 2. [Demo](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#2-demo)<br>
 
-☀ 3. [Recommended prerequisites]()<br>
+☀ 3. [Recommended prerequisites](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#3-recommended-prerequisites)<br>
 
-☀ 4. [Medical Image Diagnosis]()<br>
+☀ 4. [Medical Image Diagnosis](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#4-medical-image-diagnosis)<br>
 
-☀ 5. [Eye Disease and Cancer Diagnosis]()<br>
+☀ 5. [Eye Disease and Cancer Diagnosis](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#5-eye-disease-and-cancer-diagnosis)<br>
 
-☀ 6. [Building and Training a Model for Medical Diagnosis]()<br>
+☀ 6. [Building and Training a Model for Medical Diagnosis](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#6-building-and-training-a-model-for-medical-diagnosis)<br>
 
-☀ 7. [Training, prediction, and loss]()<br>
+☀ 7. [Training, prediction, and loss](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#7-training-prediction-and-loss)<br>
 
-☀ 8. [Image Classification and Class Imbalance]()<br>
+☀ 8. [Image Classification and Class Imbalance](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#8-image-classification-and-class-imbalance)<br>
 
-☀ 9. [Binary Cross Entropy Loss Function]()<br>
+☀ 9. [Binary Cross Entropy Loss Function](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#9-binary-cross-entropy-loss-function)<br>
 
-☀ 10. [Impact of Class Imbalance on Loss Calculation]()<br>
+☀ 10. [Impact of Class Imbalance on Loss Calculation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#10-impact-of-class-imbalance-on-loss-calculation)<br>
 
-☀ 11. [Resampling to Achieve Balanced Classes]()<br>
+☀ 11. [Resampling to Achieve Balanced Classes](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#11-resampling-to-achieve-balanced-classes)<br>
 
-☀ 12. [Multi-Task]()<br>
+☀ 12. [Multi-Task](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#12-multi-task)<br>
 
-☀ 13. [Multi-task Loss, Dataset size, and CNN Architectures]()<br>
+☀ 13. [Multi-task Loss, Dataset size, and CNN Architectures](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#13-multi-task-loss-dataset-size-and-cnn-architectures)<br>
 
-☀ 14. [Working with a Small Training Set]()<br>
+☀ 14. [Working with a Small Training Set](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#14-working-with-a-small-training-set)<br>
 
-☀ 15. [Generating More Samples]()<br>
+☀ 15. [Generating More Samples](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#15-generating-more-samples)<br>
 
-☀ 16. [Model Testing]()<br>
+☀ 16. [Model Testing](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#16-model-testing)<br>
 
-☀ 17. [Splitting data by patient]()<br>
+☀ 17. [Splitting data by patient](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#17-splitting-data-by-patient)<br>
 
-☀ 18. [Sampling]()<br>
+☀ 18. [Sampling](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#18-sampling)<br>
 
-☀ 19. [Ground Truth and Consensus Voting]()<br>
+☀ 19. [Ground Truth and Consensus Voting](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#19-ground-truth-and-consensus-voting)<br>
 
-☀ 20. [Additional Medical Testing]()<br><br>
+☀ 20. [Additional Medical Testing](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%201%20%E2%80%94%20Disease%20Detection%20with%20Computer%20Vision/Week-1%20Notes.md#20-additional-medical-testing)<br><br>
 
 # 1. Welcome to the Specialization with Andrew and Pranav
 
