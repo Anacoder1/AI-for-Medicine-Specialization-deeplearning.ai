@@ -1,22 +1,22 @@
-☀ 1. [Medical Image Segmentation]()<br>
+☀ 1. [Medical Image Segmentation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#1-medical-image-segmentation)<br>
 
-☀ 2. [MRI Data and Image Registration]()<br>
+☀ 2. [MRI Data and Image Registration](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#2-mri-data-and-image-registration)<br>
 
-☀ 3. [Segmentation]()<br>
+☀ 3. [Segmentation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#3-segmentation)<br>
 
-☀ 4. [2D U-Net and 3D U-Net]()<br>
+☀ 4. [2D U-Net and 3D U-Net](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#4-2d-u-net-and-3d-u-net)<br>
 
-☀ 5. [Data augmentation for segmentation]()<br>
+☀ 5. [Data augmentation for segmentation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#5-data-augmentation-for-segmentation)<br>
 
-☀ 6. [Loss function for image segmentation]()<br>
+☀ 6. [Loss function for image segmentation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#6-loss-function-for-image-segmentation)<br>
 
-☀ 7. [Different Populations and Diagnostic Technology]()<br>
+☀ 7. [Different Populations and Diagnostic Technology](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#7-different-populations-and-diagnostic-technology)<br>
 
-☀ 8. [External validation]()<br>
+☀ 8. [External validation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#8-external-validation)<br>
 
-☀ 9. [Measuring Patient outcomes]()<br>
+☀ 9. [Measuring Patient outcomes](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#9-measuring-patient-outcomes)<br>
 
-☀ 10. [Congratulations!]()<br><br>
+☀ 10. [Congratulations!](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Week-3%20Notes.md#10-congratulations)<br><br>
 
 # 1. Medical Image Segmentation
 
@@ -442,12 +442,7 @@ tumor regions<br><br>
 
 Let's look at the Soft Dice loss<br>
 
-![]()  `Add equation here`<br>
-
-```
-Latex for reference
-L(P, G) = 1 - \frac{2\sum_{i}^{n} p_{i}g_{i}}{\sum_{i}^{n} p_{i}^{2} + \sum_{i}^{n} g_{i}^{2}}
-```
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%201%20%E2%80%94%20AI%20for%20Medical%20Diagnosis/Week%203%20%E2%80%94%20Image%20Segmentation%20on%20MRI%20Images/Soft%20Dice%20Loss.gif)  <br><br>
 
 The Soft Dice Loss will <code>measure the error between our
 prediction map, *P*, and our Ground Truth map, *G*</code><br>
