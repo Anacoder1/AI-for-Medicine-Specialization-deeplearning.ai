@@ -1,34 +1,34 @@
-☀ 1. [Survival Models]()<br>
+☀ 1. [Survival Models](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#1-survival-models)<br>
 
-☀ 2. [Survival Function]()<br>
+☀ 2. [Survival Function](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#2-survival-function)<br>
 
-☀ 3. [Valid Survival Functions]()<br>
+☀ 3. [Valid Survival Functions](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#3-valid-survival-functions)<br>
 
-☀ 4. [Collecting Time Data]()<br>
+☀ 4. [Collecting Time Data](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#4-collecting-time-data)<br>
 
-☀ 5. [When a stroke is not observed]()<br>
+☀ 5. [When a stroke is not observed](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#5-when-a-stroke-is-not-observed)<br>
 
-☀ 6. [Heart Attack Data]()<br>
+☀ 6. [Heart Attack Data](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#6-heart-attack-data)<br>
 
-☀ 7. [Right Censoring]()<br>
+☀ 7. [Right Censoring](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#7-right-censoring)<br>
 
-☀ 8. [Estimating the Survival Function]()<br>
+☀ 8. [Estimating the Survival Function](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#8-estimating-the-survival-function)<br>
 
-☀ 9. [Died Immediately, or Never Die]()<br>
+☀ 9. [Died Immediately, or Never Die](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#9-died-immediately-or-never-die)<br>
 
-☀ 10. [Somewhere In-Between]()<br>
+☀ 10. [Somewhere In-Between](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#10-somewhere-in-between)<br>
 
-☀ 11. [Using Censored Data]()<br>
+☀ 11. [Using Censored Data](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#11-using-censored-data)<br>
 
-☀ 12. [Chain Rule of Conditional Probability]()<br>
+☀ 12. [Chain Rule of Conditional Probability](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#12-chain-rule-of-conditional-probability)<br>
 
-☀ 13. [Deriving Survival]()<br>
+☀ 13. [Deriving Survival](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#13-deriving-survival)<br>
 
-☀ 14. [Calculating Probabilities from the Data]()<br>
+☀ 14. [Calculating Probabilities from the Data](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#14-calculating-probabilities-from-the-data)<br>
 
-☀ 15. [Comparing Estimates]()<br>
+☀ 15. [Comparing Estimates](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#15-comparing-estimates)<br>
 
-☀ 16. [Kaplan Meier Estimate]()<br><br>
+☀ 16. [Kaplan Meier Estimate](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%203%20%E2%80%94%20Survival%20Models%20and%20Time/Week-3%20Notes.md#16-kaplan-meier-estimate)<br><br>
 
 # 1. Survival Models
 
@@ -79,13 +79,13 @@ Now that is very closely related to another question which is,
 
 This can be simply computed from this first quantity over here<br>
 
-![](/images/Survival-Models-1.png)<br><br>
+![](./images/Survival-Models-1.PNG)<br><br>
 
 So let's say our probability of death in 5 years was 0.2 or 20%,
 then the probability of survival past 5 years is simply
 `1 - Probability(death in 5 years)` = 1 - 0.2 = 0.8, or 80%<br>
 
-![](/images/Survival-Models-2.png)<br><br>
+![](./images/Survival-Models-2.PNG)<br><br>
 
 And so we asked questions of this form thus far<br>
 
@@ -95,14 +95,14 @@ is the probability of survival past any time (t)?***<br>
 This is not just 5 years, but any time *t* could be 1 year from
 now or 10 years from now<br>
 
-![](/images/Survival-Models-3.png)<br><br>
+![](./images/Survival-Models-3.PNG)<br><br>
 
 The key trick here is that earlier if we wanted to build a model
 for a different time horizon, let's say we didn't care about 5
 years anymore, but we cared about 10 years or 1 year, `we'd have
 to build 3 separate models for the patient`<br>
 
-![](/images/Survival-Models-4.png)<br><br>
+![](./images/Survival-Models-4.PNG)<br><br>
 
 But the trick to Survival Models is, survival models can
 answer questions of the form, ***what is the probability that the
@@ -116,7 +116,7 @@ all outputted by this one single model<br>
 The **key quantity** here is *what is the probability that the
 time to death is greater than some number of years?*<br>
 
-![](/images/Survival-Models-5.png)<br><br>
+![](./images/Survival-Models-5.PNG)<br><br>
 
 This is what we care about in Survival Models, the probability
 that time is greater than some quantity, and this is called the
@@ -126,7 +126,7 @@ The Survival Function is a function that's defined for every time
 point *(t)*, and we'll talk a little more about the properties
 of the Survival Function shortly<br>
 
-![](/images/Survival-Models-6.png)<br><br>
+![](./images/Survival-Models-6.PNG)<br><br>
 
 ***
 <br>
@@ -138,14 +138,14 @@ outputs the Survival Function, which is ***the probability that
 the time to an event is greater than t***, where *t* could take
 on any value like 1 year, 5 years, 10 years, etc.<br>
 
-![](/images/Survival-Models-7.png)<br><br>
+![](./images/Survival-Models-7.PNG)<br><br>
 
 Now, we can graphically represent the Survival Function, where
 on the x-axis we'll have `Time` which could be days, months, or
 years (let's say in this case it's *months*) & on the y-axis
 we'll have the `Survival Probability` at that time *t* — *S(t)*<br>
 
-![](/images/Survival-Models-8.png)<br><br>
+![](./images/Survival-Models-8.PNG)<br><br>
 
 Let's talk about a few `properties of the Survival Function`<br>
 
@@ -160,7 +160,7 @@ Let's talk about a few `properties of the Survival Function`<br>
    the Survival probability should never go up — it can either
    stay the same or it can go down<br>
 
-   ![](/images/Survival-Function-1.png)<br><br>
+   ![](./images/Survival-Function-1.PNG)<br><br>
 
 2. The second property is that ***the Survival Function usually
    starts off with a Survival probability of 1***<br>
@@ -174,7 +174,7 @@ Let's talk about a few `properties of the Survival Function`<br>
    So our Survival Function should start at a probability of 1
    and eventually get to 0<br>
 
-   ![](/images/Survival-Function-2.png)<br><br>
+   ![](./images/Survival-Function-2.PNG)<br><br>
 
 So with that knowledge in mind, let's check out which of these
 are valid Survival Functions<br>
@@ -206,7 +206,7 @@ because it doesn't wait till infinity to get to 0, but that's all
 right — It will stay at 0 as time goes on, and so this is also a
 valid Survival Function<br>
 
-![](/images/Valid-Survival-Functions.png)<br><br>
+![](./images/Valid-Survival-Functions.PNG)<br><br>
 
 ***
 <br>
@@ -243,7 +243,7 @@ Notice the **key thing** here was that the answers we needed,
 ones or zeroes that specified whether there was an event that
 happened in 5 years<br>
 
-![](/images/Previously-with-Prognostic-Models.png)<br><br>
+![](./images/Previously-with-Prognostic-Models.PNG)<br><br>
 
 But now, when we're dealing with Survival Data, we want to
 answer a different question<br>
@@ -253,7 +253,7 @@ Survival not just past 5 years, but past any time (t)?***<br>
 
 To be able to do that, we're going to need one information<br>
 
-![](/images/Survival-Data-1.png)<br><br>
+![](./images/Survival-Data-1.PNG)<br><br>
 
 Let's look at how we can acquire that one information for
 patients with an example<br><br>
@@ -268,7 +268,7 @@ treatment and we were monitoring them for a stroke event, and
 seeing how much time passed between the treatment till when
 they got the stroke (if they had a stroke)<br>
 
-![](/images/Survival-Data-2.png)<br><br>
+![](./images/Survival-Data-2.PNG)<br><br>
 
 And so we have our first patient who got their treatment in
 September 2018 and they had a stroke exactly after a year in
@@ -278,12 +278,12 @@ For this patient, let's say we were tracking the number of months,
 this would be equivalent to 12 months since the time of treatment
 to having a stroke event<br>
 
-![](/images/Survival-Data-3.png)<br><br>
+![](./images/Survival-Data-3.PNG)<br><br>
 
 And so we would enter in this table the number of months that
 have passed, that is 12<br>
 
-![](/images/Survival-Data-4.png)<br><br>
+![](./images/Survival-Data-4.PNG)<br><br>
 
 Let's look at another patient — they had their treatment in
 August 2018 and we tracked them for over a year until in October
@@ -296,7 +296,7 @@ Since we know that the patient didn't have an event in 14 months,
 we know that if they had an event it would have been after 14
 months, so we write a *14+* here<br>
 
-![](/images/Survival-Data-5.png)<br><br>
+![](./images/Survival-Data-5.PNG)<br><br>
 
 For our third example, this patient had a treatment in August
 2018 and just 3 months later in November 2018 decided that they
@@ -310,7 +310,7 @@ So we know that between August and November 2018, they did not
 have a stroke, but we don't know what happened after that, so
 we're going to say this patient's time is *3+* months<br>
 
-![](/images/Survival-Data-6.png)<br><br>
+![](./images/Survival-Data-6.PNG)<br><br>
 
 We enter this into a table<br>
 
@@ -326,7 +326,7 @@ We'll talk about those reasons in a bit<br>
 For now, all that's important to understand is that there is this
 censoring observation that we'll have in Survival Data<br>
 
-![](/images/Survival-Data-7.png)<br><br>
+![](./images/Survival-Data-7.PNG)<br><br>
 
 ***
 <br>
@@ -368,7 +368,7 @@ amount of time so we write a *24+* — `Patient 3 had a time of
 So in this way, we can represent our Survival Data in the
 following form<br>
 
-![](/images/Survival-Data-8.png)<br><br>
+![](./images/Survival-Data-8.PNG)<br><br>
 
 To summarize, we had Survival Data where we made the transition
 from representing our data as ***Yes or No*** like we did in the
@@ -376,7 +376,7 @@ binary setup, to asking the question ***When*** and `representing
 the time from an origin to an event, also having these censored
 observations as part of our data` which we'll look into shortly<br><br>
 
-![](/images/Survival-Data-9.png)<br><br>
+![](./images/Survival-Data-9.PNG)<br><br>
 
 ***
 <br>
@@ -390,24 +390,24 @@ the study before it's end<br>
 What we could derive from this is that the patient did not have
 an event in 3 months<br>
 
-![](/images/Censoring-1.png)<br><br>
+![](./images/Censoring-1.PNG)<br><br>
 
 Now, it's possible that the patient went on to have an event in
 Jan 2019, let's say, and earlier we looked at the event of a
 stroke but this can be any event<br>
 
-![](/images/Right-Censoring-1.png)<br><br>
+![](./images/Right-Censoring-1.PNG)<br><br>
 
 But it's also possible that the patient went on to never have
 the event at all and just be healthy throughout<br>
 
-![](/images/Right-Censoring-2.png)<br><br>
+![](./images/Right-Censoring-2.PNG)<br><br>
 
 We can capture both these scenarios under this broad umbrella
 of **noticing that the event always happens after the last
 contact, if it happens at all**<br>
 
-![](/images/Right-Censoring-3.png)<br><br>
+![](./images/Right-Censoring-3.PNG)<br><br>
 
 This is called **Right Censoring** — `the time to an event is
 only known to exceed a certain value`<br>
@@ -416,7 +416,7 @@ So if we had August 2018 here and November 2018 here, then the
 certain value that the time to event will exceed will be 3
 months, so we write this data point as *3+*<br>
 
-![](/images/Right-Censoring-4.png)<br><br>
+![](./images/Right-Censoring-4.PNG)<br><br>
 
 There are 2 types of Right Censoring that we've looked at — <br>
 
@@ -431,7 +431,7 @@ Censoring is a very important concept in Survival Data and one
 that's very necessary to understand to be able to build Survival
 Models that we'll look at soon<br>
 
-![](/images/Right-Censoring-5.png)<br><br>
+![](./images/Right-Censoring-5.PNG)<br><br>
 
 ***
 <br>
@@ -446,7 +446,7 @@ Function, *S(t)*, which can be graphically shown as the
 following, where `for each point in time, we can tell what the
 Survival probability is`<br>
 
-![](/images/Estimating-Survival-Function-1.png)<br><br>
+![](./images/Estimating-Survival-Function-1.PNG)<br><br>
 
 The **Survival probability**, remember, is just the probability
 that the time to an event is after some time *t*, where *t* can
@@ -465,7 +465,7 @@ Right-Censored observations here<br>
 So we're going to use information that looks of this form to
 estimate a Survival Function<br>
 
-![](/images/Estimating-Survival-Function-2.png)<br><br>
+![](./images/Estimating-Survival-Function-2.PNG)<br><br>
 
 We're not building individualized Survival Functions right now
 per patient, we'll look at how to do that later, but right now
@@ -476,7 +476,7 @@ the probability of Survival<br>
 We can read that off from the graph, just one Survival Function
 that we apply to the whole population<br>
 
-![](/images/Estimating-Survival-Function-3.png)<br><br>
+![](./images/Estimating-Survival-Function-3.PNG)<br><br>
 
 ***
 <br>
@@ -496,7 +496,7 @@ We can estimate this from the data by taking the fraction of
 patients that survived to 25 months divided by number of patients
 we have in our data<br>
 
-![](/images/Estimating-Survival-Function-4.png)<br><br>
+![](./images/Estimating-Survival-Function-4.PNG)<br><br>
 
 Let's look at the number that survived to 25 months — Patient 3,
 Patient 6 (the way we know this is because their event times
@@ -544,7 +544,7 @@ than if we assume that they never die<br>
 Now we know that the reality of the matter is somewhere in
 between these 2 values<br>
 
-![](/images/Estimating-Survival-Function-5.png)<br><br>
+![](./images/Estimating-Survival-Function-5.PNG)<br><br>
 
 ***
 <br>
@@ -570,7 +570,7 @@ the Censored observations never experienced the event<br>
 The reality seems to be somewhere in-between those numbers, where
 2 out of the 3 patients survived beyond 25 and the 1 other didn't<br>
 
-![](/images/Somewhere-in-Between-1.png)<br><br>
+![](./images/Somewhere-in-Between-1.PNG)<br><br>
 
 This is a problem that shows up all the time and we unfortunately
 aren't always able to acquire the reality for the Censored
@@ -584,7 +584,7 @@ what the real event time was?**<br>
 
 This is what we'll look at next<br>
 
-![](/images/Somewhere-in-Between-2.png)<br><br>
+![](./images/Somewhere-in-Between-2.PNG)<br><br>
 
 ***
 <br>
@@ -629,7 +629,7 @@ So we know that the time to an event, if it happens after or at
 26, all the following (`T ≥ 26, T ≥ 25, T ≥ 24, ..., T ≥ 0`) must hold
 true<br>
 
-![](/images/Using-Censored-Data-1.png)<br><br>
+![](./images/Using-Censored-Data-1.PNG)<br><br>
 
 ***
 <br>
@@ -672,7 +672,7 @@ Now we know that all events happened at or after 0, so `P(T ≥ 0)`
 is just going to be equal to 1, and we don't really need to
 include this term in our multiplication<br>
 
-![](/images/Chain-Rule-of-Conditional-Probability-1.png)<br><br>
+![](./images/Chain-Rule-of-Conditional-Probability-1.PNG)<br><br>
 
 ***
 <br>
@@ -729,7 +729,7 @@ happens at or after 0 — (`1 - Pr(T = 0 | T ≥ 0)`)<br>
 We're going to see next why it is useful to represent the
 Survival probability in the following way<br>
 
-![](/images/Deriving-Survival.png)<br><br>
+![](./images/Deriving-Survival.PNG)<br><br>
 
 ***
 <br>
@@ -767,7 +767,7 @@ have any patients who died at 25, and this is going to be true
 for most times in the expression, we're not going to have patients
 that died<br>
 
-![](/images/Calculating-Probabilities-From-Data-1.png)<br><br>
+![](./images/Calculating-Probabilities-From-Data-1.PNG)<br><br>
 
 In fact, the only 2 times for which we're going to see patients
 die before 25 are going to be for `Patient 1 at a time of 10` and
@@ -778,7 +778,7 @@ those 2 times<br>
 
 So we have `[1 - Pr(T = 20 | T ≥ 20)] x [1 - Pr(T = 10 | T ≥ 10)]`<br>
 
-![](/images/Calculating-Probabilities-From-Data-2.png)<br><br>
+![](./images/Calculating-Probabilities-From-Data-2.PNG)<br><br>
 
 So we have seen how we can simplify this expression to have these
 2 terms, let's see how we can simplify it even further<br>
@@ -798,7 +798,7 @@ We can complete this computation where the first part evaluates
 to 2/3 and the second part to 5/6 to get us to 10/18, we can
 simplify that to 5/9, which comes around `0.56`<br>
 
-![](/images/Calculating-Probabilities-From-Data-3.png)<br><br>
+![](./images/Calculating-Probabilities-From-Data-3.PNG)<br><br>
 
 ***
 <br>
@@ -833,7 +833,7 @@ we could get with either of our 2 extreme observations<br>
 So we've seen how we can estimate Survival probability in the
 presence of Censored observations<br>
 
-![](/images/Comparing-Estimates-1.png)<br><br>
+![](./images/Comparing-Estimates-1.PNG)<br><br>
 
 So now that we've seen how to estimate the probability of Survival
 past 25 months with Censored observations, let's look at how we
@@ -851,7 +851,7 @@ to the time <code>*t*</code>, then in this we're going to have
 So this is simply writing down for any time <code>*t*</code> what
 this expression would look like<br>
 
-![](/images/Comparing-Estimates-2.png)<br><br>
+![](./images/Comparing-Estimates-2.PNG)<br><br>
 
 Now we've seen how we can directly estimate `Pr(T = i | T ≥ i)`
 from data as the number of patients who died at the time *i*
@@ -864,7 +864,7 @@ for the Survival Function, which is the Survival at time *t*, the
 product from *i* = 0 to <code>*t*</code> of 1 minus
 (<code>d<sub>i</sub></code> / <code>n<sub>i</sub></code>)<br>
 
-![](/images/Comparing-Estimates-3.png)<br><br>
+![](./images/Comparing-Estimates-3.PNG)<br><br>
 
 ***
 <br>
@@ -874,7 +874,7 @@ product from *i* = 0 to <code>*t*</code> of 1 minus
 This is the **Kaplan Meier Estimate** which `allows us to get
 a Survival Function that we estimate from a population`<br>
 
-![](/images/Kaplan-Meier-Estimate-1.png)<br><br>
+![](./images/Kaplan-Meier-Estimate-1.PNG)<br><br>
 
 What we did was we were able to represent the population using
 Survival Data from which we built the Kaplan Meier Survival Model<br>
@@ -883,12 +883,12 @@ Survival Data from which we built the Kaplan Meier Survival Model<br>
 that we estimate is applied to all the patients in the
 population, it `isn't specific to a particular patient`<br>
 
-![](/images/Kaplan-Meier-Estimate-2.png)<br><br>
+![](./images/Kaplan-Meier-Estimate-2.PNG)<br><br>
 
 We can compute the Kaplan Meier curves, or the *Survival curves*,
 for 2 different populations and compare them against each other<br>
 
-![](/images/Kaplan-Meier-Estimate-3.png)<br><br>
+![](./images/Kaplan-Meier-Estimate-3.PNG)<br><br>
 
 For example, let's say we wanted to know the Prognosis for
 patients with Stage III cancer and with Stage IV cancer, we can
@@ -908,7 +908,7 @@ probabilities for patients between the 2 populations<br>
 So we've seen how we can use the Kaplan Meier Estimate to be
 able to get these Survival curves<br>
 
-![](/images/Kaplan-Meier-Estimate-4.png)<br><br>
+![](./images/Kaplan-Meier-Estimate-4.PNG)<br><br>
 
 This week we discussed the problem of **Survival Analysis**<br>
 
