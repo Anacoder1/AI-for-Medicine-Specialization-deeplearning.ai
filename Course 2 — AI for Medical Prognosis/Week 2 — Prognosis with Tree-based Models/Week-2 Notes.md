@@ -1,32 +1,32 @@
-☀ 1. [Decision Trees for Prognosis]()<br>
+☀ 1. [Decision Trees for Prognosis](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#1-decision-trees-for-prognosis)<br>
 
-☀ 2. [Decision Trees]()<br>
+☀ 2. [Decision Trees](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#2-decision-trees)<br>
 
-☀ 3. [Dividing the Input Space]()<br>
+☀ 3. [Dividing the Input Space](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#3-dividing-the-input-space)<br>
 
-☀ 4. [Building a Decision Tree]()<br>
+☀ 4. [Building a Decision Tree](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#4-building-a-decision-tree)<br>
 
-☀ 5. [How to Fix Overfitting]()<br>
+☀ 5. [How to Fix Overfitting](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#5-how-to-fix-overfitting)<br>
 
-☀ 6. [Survival Data]()<br>
+☀ 6. [Survival Data](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#6-survival-data)<br>
 
-☀ 7. [Different Distributions]()<br>
+☀ 7. [Different Distributions](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#7-different-distributions)<br>
 
-☀ 8. [Missing Data Example]()<br>
+☀ 8. [Missing Data Example](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#8-missing-data-example)<br>
 
-☀ 9. [Missing Completely at Random]()<br>
+☀ 9. [Missing Completely at Random](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#9-missing-completely-at-random)<br>
 
-☀ 10. [Missing at Random]()<br>
+☀ 10. [Missing at Random](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#10-missing-at-random)<br>
 
-☀ 11. [Missing Not at Random]()<br>
+☀ 11. [Missing Not at Random](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#11-missing-not-at-random)<br>
 
-☀ 12. [Imputation]()<br>
+☀ 12. [Imputation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#12-imputation)<br>
 
-☀ 13. [Mean Imputation]()<br>
+☀ 13. [Mean Imputation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#13-mean-imputation)<br>
 
-☀ 14. [Regression Imputation]()<br>
+☀ 14. [Regression Imputation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#14-regression-imputation)<br>
 
-☀ 15. [Calculate Imputed Values]()<br><br>
+☀ 15. [Calculate Imputed Values](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%202%20%E2%80%94%20Prognosis%20with%20Tree-based%20Models/Week-2%20Notes.md#15-calculate-imputed-values)<br><br>
 
 # 1. Decision Trees for Prognosis
 
@@ -103,7 +103,7 @@ vessels when your heart beats<br>
 
 Our prognostic model will predict the **10-year Mortality Risk**<br>
 
-![](/images/Prognostic-model-1.png)<br><br>
+![](./images/Prognostic-model-1.PNG)<br><br>
 
 We'll start by exploring the relationship between `Age` and
 `Systolic Blood Pressure` and death graphically<br>
@@ -117,7 +117,7 @@ Each point on this graph is a patient<br>
 **Red** represents patients who die within 10 years, and
 **Blue** represents patients who are alive after 10 years<br>
 
-![](/images/Age-vs-BP-graph.png)<br><br>
+![](./images/Age-vs-BP-graph.PNG)<br><br>
 
 Let's say first, that we were building a **Linear Model** to
 separate out the patients who died from patients who are
@@ -140,7 +140,7 @@ However, we can see that this would misclassify a lot of
 patients at high risk, which should really be in the red
 region<br><br>
 
-![](/images/Linear-Model.png)<br><br>
+![](./images/Linear-Model.PNG)<br><br>
 
 Let's now look at a classifier which will make a better
 classification, the **Decision Tree**<br>
@@ -149,7 +149,7 @@ Decision Trees `divide the input space into regions of
 high-risk and low-risk using vertical and horizontal
 boundaries`<br>
 
-![](/images/Decision-Tree.png)<br><br>
+![](./images/Decision-Tree.PNG)<br><br>
 
 The Decision Tree classifier can be viewed as partitioning
 the input feature space into regions<br>
@@ -161,7 +161,7 @@ A Decision Tree is asking a series of questions, and
 classifies a patient based on the answer to each of those
 questions<br>
 
-![](/images/Decision-Tree-Classifier.png)<br><br>
+![](./images/Decision-Tree-Classifier.PNG)<br><br>
 
 Let's see this with an example<br>
 
@@ -180,7 +180,7 @@ Finally, for `Patient 3`, we would see that their `Age` is
 < 60 and `BP` greater than 160, so we would classify them as
 high-risk<br>
 
-![](/images/Decision-Tree-Classify-Patients.png)<br><br>
+![](./images/Decision-Tree-Classify-Patients.png)<br><br>
 
 Decision Trees **can model non-linear associations**<br>
 
@@ -198,7 +198,7 @@ Terms** as we've seen last week, using which it can model
 some non-linear associations, but let's not worry about that
 for now<br>
 
-![](/images/Decision-Tree-vs-Linear-Model.png)<br><br>
+![](./images/Decision-Tree-vs-Linear-Model.png)<br><br>
 
 Here are 2 Decision Tree classifiers<br>
 
@@ -210,7 +210,7 @@ So by looking at the boundaries of a classifier in the input
 space, we can tell whether the decision boundaries could
 have been constructed using a Decision Tree<br>
 
-![](/images/Decision-Tree-Boundaries.png)<br><br>
+![](./images/Decision-Tree-Boundaries.png)<br><br>
 
 Using that, let's determine which of the following could be
 class boundaries of a Decision Tree<br>
@@ -221,7 +221,7 @@ been generated by a Decision Tree, but the third one could
 have been generated by a Decision Tree because all of the
 splits are vertical or horizontal<br>
 
-![](/images/Decision-Tree-Boundaries-Question.png)<br><br>
+![](./images/Decision-Tree-Boundaries-Question.png)<br><br>
 
 ***
 <br>
@@ -243,14 +243,14 @@ Now what variable we pick and what value we pick for that
 variable, is determined by how well it brings the reds to
 one side and the blues to the other side<br>
 
-![](/images/Of-reds-and-blues.png)<br><br>
+![](./images/Of-reds-and-blues.PNG)<br><br>
 
 Here, we'll pick `Age` and create a partition at age of 60<br>
 
 Notice that this is nicely separating out the red points on
 the right, and it has a mixture of blue and red on the left<br>
 
-![](/images/Partition-At-Age-60.png)<br><br>
+![](./images/Partition-At-Age-60.PNG)<br><br>
 
 We can repeat this process in this partition now, where we'll
 pick again a variable and value of that variable, such that
@@ -262,7 +262,7 @@ So we can add a horizontal line where the `Systolic BP` is
 Notice that a lot of red points are coming out to the top,
 and a lot of blue points to the bottom<br>
 
-![](/images/Partition-At-SystolicBP-160.png)<br><br>
+![](./images/Partition-At-SystolicBP-160.PNG)<br><br>
 
 And so we can continue this process within each partition,
 until the partitions are more or less completely red or blue<br><br>
@@ -274,7 +274,7 @@ Now in each of our 3 partitions, we can estimate Risk<br>
 Our **Risk estimate** is going to be the `fraction of patients
 that are dead` within each of the partitions<br>
 
-![](/images/Risk-estimate-In-Partitions.png)<br><br>
+![](./images/Risk-estimate-In-Partitions.PNG)<br><br>
 
 For the top most partition, we have 80% of the points that
 are red, so our estimate for a new patient is going to be
@@ -295,7 +295,7 @@ This brings us into having these 2 red partitions where the
 Risk was greater than 50%, and one blue partition where the
 Risk was smaller than 50%<br>
 
-![](/images/Binarize-Partition-Outputs.png)<br><br>
+![](./images/Binarize-Partition-Outputs.PNG)<br><br>
 
 ***
 <br>
@@ -313,7 +313,7 @@ bad thing<br>
 Here's a Decision Tree that can get a training accuracy of
 0.93<br>
 
-![](/images/0.93-Accuracy-DT.png)<br><br>
+![](./images/0.93-Accuracy-DT.PNG)<br><br>
 
 The way we can test that the Decision Tree is overly complex
 is that we can *look at its performance on another set*, here
@@ -330,7 +330,7 @@ accuracies to determine whether overfitting is an issue, even
 on `high-dimensional data` where we won't be able to see the
 decision boundaries<br>
 
-![](/images/DT-Overfitting.png)<br><br>
+![](./images/DT-Overfitting.PNG)<br><br>
 
 > One way that we can combat Overfitting is to **control when
 we stop growing the trees**<br>
@@ -347,7 +347,7 @@ simpler Decision Tree, which `gets a training accuracy which
 is similar to the test accuracy`, which is greater than the
 test accuracy that we see with the overly complex tree<br>
 
-![](/images/DT-Max-Depth.png)<br><br>
+![](./images/DT-Max-Depth.PNG)<br><br>
 
 We've seen how we can use Max Depth to combat overfitting<br>
 
@@ -362,7 +362,7 @@ prediction of Risk, like 20%, 50% or 10%, & the Random
 Forest takes the simple average of those Risk predictions to
 arrive at a Risk prediction of 15%<br>
 
-![](/images/Random-Forest.png)<br><br>
+![](./images/Random-Forest.PNG)<br><br>
 
 So how can a Random Forest be trained?<br>
 
@@ -383,7 +383,7 @@ There are **2 key concepts in the training of a Random Forest** —<br>
 With these 2 key concepts, a Random Forest algorithm learns
 to build multiple Decision Trees on given data<br>
 
-![](/images/Training-Random-Forest.png)<br><br>
+![](./images/Training-Random-Forest.PNG)<br><br>
 
 Random Forests generally **boost the performance** over single
 trees<br>
@@ -392,7 +392,7 @@ So with a single Decision Tree, you might get a Test accuracy
 of 0.71; with the Random Forest, which consists of 100 Trees,
 we get a higher test accuracy<br>
 
-![](/images/RF-Higher-Test-Accuracy.png)<br><br>
+![](./images/RF-Higher-Test-Accuracy.PNG)<br><br>
 
 Random Forests are called an **ensemble learning method**
 because they `use multiple Decision Trees to obtain better
@@ -404,7 +404,7 @@ including **Gradient Boosting, XGBoost, and LightGBM** which
 are also able to achieve high performance when working with
 structured data in medicine and in other domains<br>
 
-![](/images/Ways-to-Ensemble-DTs.png)<br><br>
+![](./images/Ways-to-Ensemble-DTs.PNG)<br><br>
 
 ***
 <br>
@@ -433,7 +433,7 @@ measurements are missing<br>
 
 Here, we use `N/A` to show missing<br>
 
-![](/images/Missing-Data.png)<br><br>
+![](./images/Missing-Data.PNG)<br><br>
 
 Let's walk through the ML pipeline that we would take to
 then build Prognostic Models with this data<br>
@@ -445,7 +445,7 @@ So we have a data set and we split it into a `Train set` and
 a `Test set`, and notice that both of them contain patients
 with missing `BP` measurements<br>
 
-![](/images/Train-Test-Split-1.png)<br><br>
+![](./images/Train-Test-Split-1.PNG)<br><br>
 
 A standard next step at this stage is simply to `exclude the
 records` of the individuals with missing data<br>
@@ -460,7 +460,7 @@ Through this case study, I want to show you that there's a
 problem with this method and how it can lead to biased
 models<br>
 
-![](/images/Train-Test-Split-2.png)<br><br>
+![](./images/Train-Test-Split-2.PNG)<br><br>
 
 So at this stage, we've dropped the missing data and now we
 proceed to build a classifier that tries to predict the
@@ -478,7 +478,7 @@ A couple of things to notice here is that the `training
 accuracy` is pretty high and the `test accuracy` is
 relatively high too<br>
 
-![](/images/Train-and-Test-Classifier.png)<br><br>
+![](./images/Train-and-Test-Classifier.PNG)<br><br>
 
 Now, a **new Test Dataset** arrives and the thing about this
 test set that's important to understand is that `this test
@@ -489,7 +489,7 @@ as our previous dataset, but this one, we have no missing data for<br>
 
 So now, we run our Random Forest model on this new test set<br>
 
-![](/images/New-Test-Dataset.png)<br><br>
+![](./images/New-Test-Dataset.PNG)<br><br>
 
 Our Random Forest model which had achieved a high training
 and test accuracy, `achieves a low accuracy of just 0.61
@@ -522,7 +522,7 @@ and got a low performance<br>
 
 So why might this be happening?<br>
 
-![](/images/Recap.png)<br><br>
+![](./images/Recap.PNG)<br><br>
 
 We know that one reason that we can see this discrepancy
 between the training data and the test data, or even the
@@ -544,7 +544,7 @@ Random Forest model got relatively high accuracy, 0.84<br>
 On the right, we have our new test set on which our model got
 a relatively low accuracy, 0.61<br>
 
-![](/images/Difference-in-Distribution-1.png)<br><br>
+![](./images/Difference-in-Distribution-1.PNG)<br><br>
 
 Let's look at the difference in distribution between the
 ages<br>
@@ -556,7 +556,7 @@ But we see that the main difference between these 2 graphs is
 `what's happening right below the age of 40`<br>
 We're going to draw a line there<br>
 
-![](/images/Difference-in-Distribution-2.png)<br><br>
+![](./images/Difference-in-Distribution-2.PNG)<br><br>
 
 We can see that there are far fewer number of patients who
 have an `Age` < 40 in our old test set, compared to our new
@@ -586,7 +586,7 @@ in our old test set, while we have a lot of patients under
 So **our low accuracy has a higher influence on our total
 accuracy in our old test set**<br>
 
-![](/images/Difference-in-Distribution-3.png)<br><br>
+![](./images/Difference-in-Distribution-3.PNG)<br><br>
 
 ***
 <br>
@@ -611,7 +611,7 @@ Here's what it looks like after dropping, which is the same
 graph as the one we saw before, but here's what it's looking
 like before dropping<br>
 
-![](/images/Before-and-After-Dropping.png)<br><br>
+![](./images/Before-and-After-Dropping.PNG)<br><br>
 
 So we can see that there were a lot of young patients
 previously, that after our dropping of cases with missing
@@ -625,7 +625,7 @@ may not regularly record `BP` for young patients, but
 recording the `BP` might be a routine part of care for older
 patients<br>
 
-![](/images/Why-is-Data-Missing.png)<br><br>
+![](./images/Why-is-Data-Missing.PNG)<br><br>
 
 There are a **lot of patterns like this which can generate a
 systematic missing-ness to the data**, such that when people
@@ -644,7 +644,7 @@ With that knowledge, let's go through this quiz<br>
 This question asks, which of the following groups would a
 complete-case analysis be most inappropriate for?<br>
 
-![](/images/Missing-Data-Quiz.png)<br><br>
+![](./images/Missing-Data-Quiz.PNG)<br><br>
 
 Remember that a complete-case analysis would be inappropriate
 for those for who we're dropping data, those for who we'll
@@ -675,7 +675,7 @@ There are broadly 3 missing data categories —<br>
 2. Missing at random, and
 3. Missing not at random
 
-![](/images/Why-is-Data-Missing-2.png)<br>
+![](./images/Why-is-Data-Missing-2.PNG)<br>
 
 Let's dive into them<br><br>
 
@@ -690,7 +690,7 @@ If the coin came out to be heads, they would record the `BP`<br>
 If the coin came out to be tails, then they wouldn't record
 the `BP`<br>
 
-![](/images/Missing-Completely-at-Random-1.png)<br><br>
+![](./images/Missing-Completely-at-Random-1.PNG)<br><br>
 
 Let's go through this example where we have patients come in
 and let's simulate we're the doctor, & the first patient
@@ -700,7 +700,7 @@ whatever their `BP` is<br>
 Second patient comes in, we flip a coin, this time it comes
 out tails, we don't measure their `BP` and so on<br>
 
-![](/images/Missing-Completely-at-Random-2.png)<br><br>
+![](./images/Missing-Completely-at-Random-2.PNG)<br><br>
 
 With this mechanism, we can think of what would our graph be
 in terms of the frequency of the different age groups for
@@ -721,7 +721,7 @@ Maybe we saw a lot more older patients than we saw younger
 patients, and here we would expect a very similar looking
 curve<br>
 
-![](/images/Missing-Completely-at-Random-3.png)<br><br>
+![](./images/Missing-Completely-at-Random-3.PNG)<br><br>
 
 We're going to contrast *missing completely at random* with
 other missing data categories because most missing-ness is
@@ -741,7 +741,7 @@ model<br>
 > 💡 So we expect that `when we have missing Completely at
 random data, we won't create biased models`<br>
 
-![](/images/Missing-Completely-at-Random-4.png)<br><br>
+![](./images/Missing-Completely-at-Random-4.PNG)<br><br>
 
 But most missing-ness is not completely at random<br><br>
 
@@ -767,7 +767,7 @@ This might happen because the doctor thinks old people should
 always get a `BP` checkup while for young patients, it only
 needs to happen sometimes <br>
 
-![](/images/Missing-at-Random-1.png)<br><br>
+![](./images/Missing-at-Random-1.PNG)<br><br>
 
 The important thing to recognize here is that **we now have a
 condition that determines** whether or not we're flipping the
@@ -780,7 +780,7 @@ tails, and we don't record the `BP`<br>
 For the second patient, the `Age` > 40 so there's no coin
 flip, we just record whatever their `BP` is, and so on<br>
 
-![](/images/Missing-at-Random-2.png)<br><br>
+![](./images/Missing-at-Random-2.PNG)<br><br>
 
 > Here's the important thing to recognize — when the patients
 are older than 40, we're not doing the coin flip at all,
@@ -799,7 +799,7 @@ but now for the younger than 40 cases, for about half of
 those we're not recording `BP`, and for half of them we are
 recording `BP`<br>
 
-![](/images/Missing-at-Random-3.png)<br><br>
+![](./images/Missing-at-Random-3.PNG)<br><br>
 
 >💡 So this is the difference in distribution that we will
 see between `Those with BP missing` and `Those with BP not
@@ -822,7 +822,7 @@ the available information**<br>
 Here the available information is `Age`, and `Age` is
 entirely determining what the probability of missing-ness is<br>
 
-![](/images/Missing-at-Random-4.png)<br><br>
+![](./images/Missing-at-Random-4.PNG)<br><br>
 
 We're going to compare this with another scenario in which
 the available information won't be all that's being used
@@ -847,7 +847,7 @@ But, if there are other patients waiting, then there's a flip
 of a coin, and if that flip comes out to heads, the doctor
 records the `BP`, if not he/she doesn't record the `BP`<br>
 
-![](/images/Missing-Not-at-Random-1.png)<br><br>
+![](./images/Missing-Not-at-Random-1.PNG)<br><br>
 
 Notice that whether patients are waiting is **not a variable
 that would be traditionally collected as part of a study**<br>
@@ -864,7 +864,7 @@ we won't record the `BP`<br>
 If the patients are not waiting, there is no coin flip and
 the `BP` will be recorded, and so on..<br>
 
-![](/images/Missing-Not-at-Random-2.png)<br><br>
+![](./images/Missing-Not-at-Random-2.PNG)<br><br>
 
 Now with *Missing Not at Random*, the difficulty with
 unobservable variables is that we just simply don't see
@@ -877,7 +877,7 @@ never recorded<br>
 And what we end up with is a dataset with missing `BP` values,
 **which have a missing-ness mechanism that's not recorded here**<br>
 
-![](/images/Missing-Not-at-Random-3.png)<br><br>
+![](./images/Missing-Not-at-Random-3.PNG)<br><br>
 
 So, when we look at the population with `BP` missing and `BP`
 not missing, and let's say we were looking at `Age`, we
@@ -887,7 +887,7 @@ actually *missing not at random*, because this looks very
 similar to what we would see if the data were *missing
 completely at random* as well<br>
 
-![](/images/Missing-Not-at-Random-4.png)<br><br>
+![](./images/Missing-Not-at-Random-4.PNG)<br><br>
 
 And so we have with missing not at random, the major
 difference being that the probability that the data is
@@ -905,7 +905,7 @@ missing-ness is dependent on that unavailable information**<br>
 
 This is Missing Not at Random<br>
 
-![](/images/Missing-Not-at-Random-5.png)<br><br>
+![](./images/Missing-Not-at-Random-5.PNG)<br><br>
 
 And so we've talked about the **3 missing data categories** —
 missing completely at random, missing at random, and missing
@@ -919,7 +919,7 @@ However, it's important to be aware of the different possible
 missing data categories to understand how `if we drop missing
 records, we can lead to a biased model`<br>
 
-![](/images/Missing-Data-Categories.png)<br><br>
+![](./images/Missing-Data-Categories.PNG)<br><br>
 
 ***
 <br>
@@ -954,7 +954,7 @@ have missing data and this is what imputation is<br><br>
 We'll start here with a task where again, we have a bunch of
 patients<br>
 
-![](/images/Imputation-1.png)<br><br>
+![](./images/Imputation-1.PNG)<br><br>
 
 For this, we'll take a look at a case study of
 **cardiovascular disease (CVD)** event prediction<br>
@@ -971,7 +971,7 @@ As input to this Prognostic Model, we will have `Age` and
 So let's work through the ML pipeline and see how we use
 imputation in it<br>
 
-![](/images/Imputation-Case-Study.png)<br><br>
+![](./images/Imputation-Case-Study.PNG)<br><br>
 
 ***
 <br>
@@ -985,7 +985,7 @@ training and test sets**<br>
 Notice that both the training and test sets contain missing
 values<br>
 
-![](/images/Imputation-TrainTest-Split.png)<br><br>
+![](./images/Imputation-TrainTest-Split.PNG)<br><br>
 
 Now we want to hone in on the training set in particular,
 and I want to note a couple of things here<br>
@@ -1010,7 +1010,7 @@ those missing `BP` measurements, we know those patients'
 We're going to try to find out what `BP` value should we
 assign to each of these points<br>
 
-![](/images/Imputation-Training-1.png)<br><br>
+![](./images/Imputation-Training-1.PNG)<br><br>
 
 We're going to start with a simple method for imputation,
 which is called **Mean Imputation**<br>
@@ -1023,7 +1023,7 @@ many, many rows and I just looked at all of the `BP` values,
 averaged them, and found out that the mean `BP` value that
 I've observed in this dataset is 140<br>
 
-![](/images/Mean-Imputation-1.png)<br><br>
+![](./images/Mean-Imputation-1.PNG)<br><br>
 
 Now what I'll do is for all of the points where I didn't
 know what the `BP` measurement was, I'm going to say that
@@ -1039,7 +1039,7 @@ You can see that we have assigned for all of the missing
 
 So this was for the training set<br>
 
-![](/images/Mean-Imputation-2.png)<br><br>
+![](./images/Mean-Imputation-2.PNG)<br><br>
 
 We did that for the training set, now we can also look at
 the test set<br>
@@ -1057,7 +1057,7 @@ That's why I'm using my training set to come up with an
 estimate for the mean `BP` value which I'm then using on
 the test set<br>
 
-![](/images/Mean-Imputation-3.png)<br><br>
+![](./images/Mean-Imputation-3.PNG)<br><br>
 
 Now with that in mind, try the following quiz<br>
 
@@ -1072,7 +1072,7 @@ imputation<br>
 Keep in mind, the goal here is to test your understanding of
 whether you would use the mean `BP` in training or in test<br>
 
-![](/images/Mean-Imputation-Quiz-1.png)<br><br>
+![](./images/Mean-Imputation-Quiz-1.PNG)<br><br>
 
 Remember as we've seen before, we would use the mean `BP`
 of the training test to impute in the test set, the reason
@@ -1084,7 +1084,7 @@ training and test sets are drawn from the same distribution`,
 which we know they are because we performed that split
 ourselves<br>
 
-![](/images/Mean-Imputation-Quiz-2.png)<br><br>
+![](./images/Mean-Imputation-Quiz-2.PNG)<br><br>
 
 ***
 <br>
@@ -1108,7 +1108,7 @@ And our imputation method is not preserving this
 relationship, this correlation between `Age` and `BP` that
 we see exists<br>
 
-![](/images/Observation-about-Mean-Imputation.png)<br><br>
+![](./images/Observation-about-Mean-Imputation.PNG)<br><br>
 
 So we'll look at a second imputation method that can
 preserve this relationship, and that is called **Regression
@@ -1120,7 +1120,7 @@ set and test set<br>
 
 We're going to first pay attention to the training set<br>
 
-![](/images/Regression-Imputation-1.png)<br><br>
+![](./images/Regression-Imputation-1.PNG)<br><br>
 
 💡 So now, what we're going to try to do in the same setup
 where we have these missing `BP` values is ***try to learn a
@@ -1135,7 +1135,7 @@ here when `Age` = 0<br>
 If we had to draw a line here, manually ourselves, we might
 draw a line that looks something like this<br>
 
-![](/images/Regression-Imputation-2.png)<br><br>
+![](./images/Regression-Imputation-2.PNG)<br><br>
 
 Notice that this line would capture this relationship
 between `Age` and `BP`, which our mean imputation method
@@ -1152,7 +1152,7 @@ This is a very useful relationship to know — it's a
 relationship which we acquired straight from the data by
 trying to fit a linear model here<br>
 
-![](/images/Regression-Imputation-3.png)<br><br>
+![](./images/Regression-Imputation-3.PNG)<br><br>
 
 ***
 <br>
@@ -1171,7 +1171,7 @@ and then we would add 115 — this would come out to around
 
 We can repeat this for the other patients as well<br>
 
-![](/images/Regression-Imputation-4.png)<br><br>
+![](./images/Regression-Imputation-4.PNG)<br><br>
 
 So now that we've filled in the `BP` values for the training
 set, we can now apply the same equation to the test set to
@@ -1180,7 +1180,7 @@ fill in the missing values there<br>
 And so, if I have `Age` = 67 for this patient, we will do
 0.6 times 67 plus 115, which is equal to 155, and so on<br>
 
-![](/images/Regression-Imputation-5.png)<br><br>
+![](./images/Regression-Imputation-5.PNG)<br><br>
 
 At this point, we've looked at 2 Imputation methods —
 `Mean imputation, and Regression imputation`<br>
@@ -1217,6 +1217,6 @@ data<br>
 
 So that's Imputation for us<br>
 
-![](/images/Imputation-Recap.png)<br><br>
+![](./images/Imputation-Recap.PNG)<br><br>
 
 ***
