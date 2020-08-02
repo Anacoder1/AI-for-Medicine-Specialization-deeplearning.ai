@@ -1,50 +1,50 @@
-☀ 1. [Hazard Functions]()<br>
+☀ 1. [Hazard Functions](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#1-hazard-functions)<br>
 
-☀ 2. [Hazard]()<br>
+☀ 2. [Hazard](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#2-hazard)<br>
 
-☀ 3. [Survival to Hazard]()<br>
+☀ 3. [Survival to Hazard](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#3-survival-to-hazard)<br>
 
-☀ 4. [Cumulative Hazard]()<br>
+☀ 4. [Cumulative Hazard](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#4-cumulative-hazard)<br>
 
-☀ 5. [Individualized Predictions]()<br>
+☀ 5. [Individualized Predictions](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#5-individualized-predictions)<br>
 
-☀ 6. [Relative Risk]()<br>
+☀ 6. [Relative Risk](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#6-relative-risk)<br>
 
-☀ 7. [Ranking Patients by Risk]()<br>
+☀ 7. [Ranking Patients by Risk](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#7-ranking-patients-by-risk)<br>
 
-☀ 8. [Individual vs. Baseline Hazard]()<br>
+☀ 8. [Individual vs. Baseline Hazard](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#8-individual-vs-baseline-hazard)<br>
 
-☀ 9. [Smoker vs. Non-Smoker]()<br>
+☀ 9. [Smoker vs. Non-Smoker](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#9-smoker-vs-non-smoker)<br>
 
-☀ 10. [Effect of Age on Hazard]()<br>
+☀ 10. [Effect of Age on Hazard](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#10-effect-of-age-on-hazard)<br>
 
-☀ 11. [Risk Factor Increase per Unit Increase in a Variable]()<br>
+☀ 11. [Risk Factor Increase per Unit Increase in a Variable](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#11-risk-factor-increase-per-unit-increase-in-a-variable)<br>
 
-☀ 12. [Risk Factor Increase or Decrease]()<br>
+☀ 12. [Risk Factor Increase or Decrease](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#12-risk-factor-increase-or-decrease)<br>
 
-☀ 13. [Introduction to Survival Trees]()<br>
+☀ 13. [Introduction to Survival Trees](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#13-introduction-to-survival-trees)<br>
 
-☀ 14. [Survival Tree]()<br>
+☀ 14. [Survival Tree](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#14-survival-tree)<br>
 
-☀ 15. [Nelson Aalen Estimator]()<br>
+☀ 15. [Nelson Aalen Estimator](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#15-nelson-aalen-estimator)<br>
 
-☀ 16. [Comparing the Risks of Patients]()<br>
+☀ 16. [Comparing the Risks of Patients](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#16-comparing-the-risks-of-patients)<br>
 
-☀ 17. [Mortality Score]()<br>
+☀ 17. [Mortality Score](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#17-mortality-score)<br>
 
-☀ 18. [Evaluation of Survival Models]()<br>
+☀ 18. [Evaluation of Survival Models](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#18-evaluation-of-survival-models)<br>
 
-☀ 19. [Permissible and Non-Permissible Pairs]()<br>
+☀ 19. [Permissible and Non-Permissible Pairs](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#19-permissible-and-non-permissible-pairs)<br>
 
-☀ 20. [Possible Permissible Pairs]()<br>
+☀ 20. [Possible Permissible Pairs](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#20-possible-permissible-pairs)<br>
 
-☀ 21. [Example of Harrell's C-Index]()<br>
+☀ 21. [Example of Harrell's C-Index](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#21-example-of-harrells-c-index)<br>
 
-☀ 22. [Example of Concordant Pairs]()<br>
+☀ 22. [Example of Concordant Pairs](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#22-example-of-concordant-pairs)<br>
 
-☀ 23. [Week-4 Summary]()<br>
+☀ 23. [Week-4 Summary](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#23-week-4-summary)<br>
 
-☀ 24. [Congratulations!]()<br><br>
+☀ 24. [Congratulations!](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%204%20%E2%80%94%20Build%20a%20Risk%20Model%20using%20Linear%20and%20Tree-based%20Models/Week-4%20Notes.md#24-congratulations)<br><br>
 
 # 1. Hazard Functions
 
