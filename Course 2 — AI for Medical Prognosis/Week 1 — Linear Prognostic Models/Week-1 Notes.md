@@ -1,24 +1,24 @@
-☀ 1. [Course-2 Introduction with Andrew and Pranav]()<br>
+☀ 1. [Course-2 Introduction with Andrew and Pranav](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#1-course-2-introduction-with-andrew-and-pranav)<br>
 
-☀ 2. [Prerequisites and Learning Outcomes]()<br>
+☀ 2. [Prerequisites and Learning Outcomes](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#2-prerequisites-and-learning-outcomes)<br>
 
-☀ 3. [Medical Prognosis]()<br>
+☀ 3. [Medical Prognosis](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#3-medical-prognosis)<br>
 
-☀ 4. [Examples of Prognostic Tasks]()<br>
+☀ 4. [Examples of Prognostic Tasks](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#4-examples-of-prognostic-tasks)<br>
 
-☀ 5. [Atrial Fibrillation]()<br>
+☀ 5. [Atrial Fibrillation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#5-atrial-fibrillation)<br>
 
-☀ 6. [Liver Disease Mortality]()<br>
+☀ 6. [Liver Disease Mortality](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#6-liver-disease-mortality)<br>
 
-☀ 7. [Risk of Heart Disease]()<br>
+☀ 7. [Risk of Heart Disease](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#7-risk-of-heart-disease)<br>
 
-☀ 8. [Risk Score Computation]()<br>
+☀ 8. [Risk Score Computation](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#8-risk-score-computation)<br>
 
-☀ 9. [Evaluating Prognostic Models]()<br>
+☀ 9. [Evaluating Prognostic Models](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#9-evaluating-prognostic-models)<br>
 
-☀ 10. [Concordant Pairs, Risk Ties, Permissible Pairs]()<br>
+☀ 10. [Concordant Pairs, Risk Ties, Permissible Pairs](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#10-concordant-pairs-risk-ties-permissible-pairs)<br>
 
-☀ 11. [C-Index]()<br><br>
+☀ 11. [C-Index](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/Week-1%20Notes.md#11-c-index)<br><br>
 
 # 1. Course-2 Introduction with Andrew and Pranav
 
@@ -689,7 +689,7 @@ the natural log of `Age` on the x-axis and the natural log of
 The risk is represented by the colors where `yellow is
 greater risk than green, which is greater risk than blue`<br>
 
-![](/images/Risk-graph-1.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Risk-graph-1.PNG)<br><br>
 
 > Without Interaction Terms, if we were asked about the
 relationship between `Blood Pressure` and Score, we would
@@ -704,7 +704,7 @@ green<br>
 
 So **the Risk is increasing**<br>
 
-![](/images/Risk-graph-2.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Risk-graph-2.PNG)<br><br>
 
 Now let's see what happens with Interaction Terms<br>
 
@@ -737,7 +737,7 @@ Pressure` is increasing<br>
 the Risk is staying the same in the yellow band as we're
 increasing the `Blood Pressure`<br>
 
-![](/images/Risk-graph-3.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Risk-graph-3.PNG)<br><br>
 
 So here are the graphs without and with Interaction Terms
 displayed next to each other to see how Interaction Terms can
@@ -755,7 +755,7 @@ As `Blood Pressure` goes up, Risk is going up<br>
 having less of an effect on Risk when the patient is old than
 when they are young<br>
 
-![](/images/Risk-graph-4.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Risk-graph-4.PNG)<br><br>
 
 Now that you're familiar with Prognostic Models, Risk
 Equations and how Interaction Terms change the relationship
@@ -780,7 +780,7 @@ The apple in my left hand already looks stale and will expire
 in 2 days, but the apple in my right hand will be fresh for
 the next 2 days<br>
 
-![](/images/apples.png)<br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/apples.PNG)<br>
 
 Now we want a **good Risk Model** to `give a higher Risk
 Score to the stale apple than to the fresh one`<br>
@@ -802,7 +802,7 @@ Here, we're looking at death within 10 years, so we need to
 know that `Patient A` died within the next 10 years, but
 `Patient B` did not<br>
 
-![](/images/Patients-and-Risk.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Patients-and-Risk.PNG)<br><br>
 
 Given this information for patients A and B, let's think
 about the Risk Score that a good Prognostic Model would give
@@ -823,13 +823,13 @@ to** `Patient B`<br><br>
 In general, `when the patient with the worst outcome has the
 higher Risk Score`, this pair is called **Concordant**<br>
 
-![](/images/Concordant-Pair.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Concordant-Pair.PNG)<br><br>
 
 Now `when the patient with the worst outcome`, here `Patient
 A`, `does not have a higher Risk Score`, the pair is called
 **Not Concordant**<br>
 
-![](/images/Not-Concordant-Pair.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Not-Concordant-Pair.PNG)<br><br>
 
 With that information, let's try to determine whether the
 following pair is Concordant<br>
@@ -841,7 +841,7 @@ C`, because they die within the next 10 years, while
 And `Patient C` is the patient with the higher Risk Score,
 so we find that this pair is *Concordant*<br>
 
-![](/images/Is-Pair-Concordant-1.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Is-Pair-Concordant-1.PNG)<br><br>
 
 Let's next try to determine whether the following pair is
 Concordant<br>
@@ -849,7 +849,7 @@ Concordant<br>
 We notice that the patient with the worst outcome, `Patient F`
 has the lower Risk Score, and thus this pair is *Not Concordant*<br>
 
-![](/images/Is-Pair-Concordant-2.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Is-Pair-Concordant-2.PNG)<br><br>
 
 Finally, let's consider the case in which `we have different
 outcomes, but a tie in the Risk Score`<br>
@@ -858,7 +858,7 @@ In this case, we don't consider it *Concordant* or
 *Discordant*<br>
 We classify these as **Risk Ties**<br>
 
-![](/images/Risk-Ties.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Risk-Ties.PNG)<br><br>
 
 Note that we haven't considered **Ties in the outcome**<br>
 
@@ -871,14 +871,14 @@ have a higher Risk Score`<br>
 > 💡 Thus, in the evaluation of Prognostic Models, we only
 consider pairs where the outcomes are different<br>
 
-![](/images/Ties-in-Outcome.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Ties-in-Outcome.PNG)<br><br>
 
 A `pair where the outcomes are different` is called a
 **Permissible Pair**<br>
 
 It's with such pairs that we can evaluate Prognostic Models<br>
 
-![](/images/Permissible-Pair.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/Permissible-Pair.PNG)<br><br>
 
 Using all of this information, we can now evaluate Prognostic
 Models by giving a Score of `+1` for every **Permissible Pair
@@ -906,7 +906,7 @@ we're looking at the number of Concordant Pairs, adding that
 to 0.5 times the number of Risk Ties, and dividing by the
 total number of Permissible Pairs<br>
 
-![](/images/C-Index.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/C-Index.PNG)<br><br>
 
 The C-Index has the following interpretation<br>
 
@@ -917,7 +917,7 @@ the outcome for `Patient B` (Y<sub>B</sub>) and Y<sub>A</sub> = 1, Y<sub>B</sub>
 What is the probability that the patient with the worst
 outcome, `Patient A`, gets the higher score?<br>
 
-![](/images/C-Index-Interpretation.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/C-Index-Interpretation.PNG)<br><br>
 
 A **Completely Random Model** would guess correctly only
 half the time and so would get a C-Index of `0.5`, while a
@@ -926,7 +926,7 @@ C-Index of `1.0`<br><br>
 
 Let's compute the C-Index for the following example<br>
 
-![](/images/C-Index-Calculation-0.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/C-Index-Calculation-0.PNG)<br><br>
 
 Here we have 5 patients, let's first list out all the
 **possible pairs** — `AB, AC, AD, AE, BC, BD, BE, CD, CE, DE`<br>
@@ -956,7 +956,7 @@ In `DE`, the patient with the worst outcome, `Patient D`, has
 a lower Risk Score, so this is not Concordant<br>
 It's not a Risk Tie either<br>
 
-![](/images/C-Index-Calculation-1.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/C-Index-Calculation-1.PNG)<br><br>
 
 Using this, we can now compute the C-Index using the given
 formula<br>
@@ -969,7 +969,7 @@ which gives a **C-Index of 0.75**<br>
 
 And so we have evaluated our first Prognostic Model<br>
 
-![](/images/C-Index-Calculation-2.png)<br><br>
+![](https://github.com/Anacoder1/AI-for-Medicine-Specialization-deeplearning.ai/blob/master/Course%202%20%E2%80%94%20AI%20for%20Medical%20Prognosis/Week%201%20%E2%80%94%20Linear%20Prognostic%20Models/images/C-Index-Calculation-2.PNG)<br><br>
 
 Let's next dive into real examples of Prognostic Models in
 clinical practice<br>
